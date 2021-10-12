@@ -115,8 +115,3 @@ ul.social-network li {
 .social-network a {
   background-color: #f9f9f99c;
 }
-
-
-.container, .container-sm {
-    width: 100%!important;
-}
